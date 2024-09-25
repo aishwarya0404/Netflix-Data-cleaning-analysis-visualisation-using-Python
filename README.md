@@ -31,7 +31,7 @@ pip install pandas seaborn matplotlib plotly textblob
 
 ## Usage
 1. Download the dataset and place it in the project folder.
-2. Open and run the Jupyter Notebook `Netflix_Data_Analysis.ipynb`.
+2. Open and run the Jupyter Notebook `Netflix_Dataset_Analysis.ipynb`.
 3. The notebook will perform data cleaning, analysis, and visualization tasks.
 
 ## Data Cleaning
